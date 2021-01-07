@@ -1,2 +1,2 @@
 # JornadaByLearn
-Testanto sintaxes e exemplos simples em Python
+Testando sintaxes e exemplos simples em Python
